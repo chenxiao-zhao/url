@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/instantiator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/ringphp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/guzzlehttp/streams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-timer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/php-token-stream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/react/promise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/comparator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/diff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/environment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/exporter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/global-state" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/recursion-context" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/yaml" vcs="Git" />
+  </component>
+</project>
